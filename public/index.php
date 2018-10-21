@@ -6,6 +6,6 @@ require_once '../app/init.php';
 $app = new App;
 
 
-echo "<br />index.php";
+echo "<br />index.php sidan";
 
  ?>
