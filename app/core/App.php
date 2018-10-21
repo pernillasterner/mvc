@@ -3,7 +3,11 @@
 
 class App
 {
-  
+  // Create an construct method
+  public function __construct()
+  {
+    echo "this is construct";
+  }
 }
 
 
